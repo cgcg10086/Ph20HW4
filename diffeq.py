@@ -2,6 +2,7 @@
 # implementing the explicit Euler method. Plot x and v as functions of time for a few cycles
 # of oscillation, choosing h small enough that the graph looks smooth, but not smaller. Choose
 # reasonable initial conditions.
+# Author: Chen Chang
 
 import numpy as np
 import scipy.integrate as integrate
