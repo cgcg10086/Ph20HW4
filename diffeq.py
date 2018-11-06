@@ -3,6 +3,7 @@
 # of oscillation, choosing h small enough that the graph looks smooth, but not smaller. Choose
 # reasonable initial conditions.
 # Author: Chen Chang
+# This is a previous Ph20 student's code. 
 
 import numpy as np
 import scipy.integrate as integrate
